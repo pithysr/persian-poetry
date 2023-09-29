@@ -3,5 +3,5 @@ Persian poetry analysis (style and rhetorical figures)
 
 Code for cleaning is under development.
 
-Datasets are available [here](https://zenodo.org/record/7923612 )
-and in the [`./data`](https://github.com/pithysr/persian-poetry/tree/main/data).
+Datasets in the [`./data`](https://github.com/pithysr/persian-poetry/tree/main/data) are also available at [Zenodo](https://zenodo.org/record/7923612).
+![zenodo_badge](https://zenodo.org/badge/DOI/10.5281/zenodo.7923612.svg)
